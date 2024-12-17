@@ -1,0 +1,4 @@
+Put Resourses and Plugins folder in this folder  . Also merge Managed and Managed2 into Managed folder and put it in this folder.
+My project data >> Managed + Plugins + Resources.
+
+Put Extra folder file outside of My project_Data where Managed + Plugins + Resources is present not in any folder just outside below them. Don't put the document of Extra folder in any file just copy and paste them outside for game to run.
